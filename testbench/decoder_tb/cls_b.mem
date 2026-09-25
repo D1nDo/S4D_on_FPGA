@@ -1,0 +1,6 @@
+// bias del classificatore: b[k] = k  (generato da bias_gen.py)
+00000000  // classe 0: aggiunge 0
+00000001  // classe 1: aggiunge 1
+00000002  // classe 2: aggiunge 2
+00000003  // classe 3: aggiunge 3
+00000004  // classe 4: aggiunge 4

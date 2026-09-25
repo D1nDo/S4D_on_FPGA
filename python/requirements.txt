@@ -1,0 +1,4 @@
+# tested with Python 3.10 (Linux / WSL2; the bit-accurate check uses fork())
+torch==2.5.1
+numpy==2.2.6
+pandas==2.3.3

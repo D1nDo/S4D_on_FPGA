@@ -1,0 +1,26 @@
+// pacchetti attesi di s4d_decoder_axis (generato da decoder_model.py)
+// stimolo stim_4x8x128.mem, L 8, K 5, BN_SH 13: per ogni sequenza 5 logit + 1 parola di classe
+FFFFFF9C  // sequenza 0: logit 0 = -100
+000000C9  // sequenza 0: logit 1 = 201
+000001F6  // sequenza 0: logit 2 = 502
+00000067  // sequenza 0: logit 3 = 103
+00000130  // sequenza 0: logit 4 = 304
+C1000002  // sequenza 0: classe 2
+FFFFFF38  // sequenza 1: logit 0 = -200
+00000191  // sequenza 1: logit 1 = 401
+00000066  // sequenza 1: logit 2 = 102
+0000012F  // sequenza 1: logit 3 = 303
+000002C0  // sequenza 1: logit 4 = 704
+C1000004  // sequenza 1: classe 4
+FFFFFF9C  // sequenza 2: logit 0 = -100
+0000012D  // sequenza 2: logit 1 = 301
+000000CA  // sequenza 2: logit 2 = 202
+0000025B  // sequenza 2: logit 3 = 603
+00000068  // sequenza 2: logit 4 = 104
+C1000003  // sequenza 2: classe 3
+0000020E  // sequenza 3: logit 0 = 526
+00000217  // sequenza 3: logit 1 = 535
+000000BE  // sequenza 3: logit 2 = 190
+000000C0  // sequenza 3: logit 3 = 192
+000000DB  // sequenza 3: logit 4 = 219
+C1000001  // sequenza 3: classe 1
